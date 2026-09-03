@@ -1,10 +1,10 @@
-# 📊 HR Analytics — End-to-End Data Analytics Project
+#  HR Analytics — End-to-End Data Analytics Project
 
 > **An end-to-end HR Analytics project that transforms raw employee data into actionable workforce, attrition, compensation, performance, and employee-risk insights using Python, Excel, SQL, and Power BI.**
 
 ---
 
-## 🔎 Project Overview
+##  Project Overview
 
 Human Resources teams need more than employee counts. They need to understand:
 
@@ -22,7 +22,7 @@ The project combines **Python for data preparation and EDA, Excel for data clean
 
 ---
 
-# 🎯 Business Objective
+#  Business Objective
 
 The primary objective is to analyze employee data and help HR stakeholders answer questions around:
 
@@ -74,7 +74,7 @@ The primary objective is to analyze employee data and help HR stakeholders answe
 
 ---
 
-# 🧩 Project Workflow
+#  Project Workflow
 
 ```text
 Raw HR Datasets
@@ -100,7 +100,7 @@ Business Insights & HR Recommendations
 
 ---
 
-# 🗂️ Repository Structure
+#  Repository Structure
 
 ```text
 HR-Analysing-Project/
@@ -155,7 +155,7 @@ HR-Analysing-Project/
 
 ---
 
-# 1️⃣ Data Preparation — Python
+# 1️ Data Preparation — Python
 
 The project begins with multiple HR datasets containing different aspects of employee information.
 
@@ -192,7 +192,7 @@ Python is used here because merging several datasets programmatically is more re
 
 ---
 
-# 2️⃣ Data Cleaning — Excel
+# 2️ Data Cleaning — Excel
 
 After the data-merging stage, Excel is used to prepare the analytical dataset.
 
@@ -232,7 +232,7 @@ Excel provides a practical environment for:
 
 ---
 
-# 3️⃣ Exploratory Data Analysis — Python
+# 3️ Exploratory Data Analysis — Python
 
 The EDA notebook performs systematic exploration of the cleaned HR dataset.
 
@@ -282,7 +282,7 @@ This stage helps identify patterns and potential relationships before building S
 
 ---
 
-# 4️⃣ SQL — Business Questions & Analysis
+# 4️ SQL — Business Questions & Analysis
 
 SQL is used to convert HR business questions into measurable analytical queries.
 
@@ -370,7 +370,7 @@ The complete SQL analysis is available in:
 
 ---
 
-# 5️⃣ Power BI — Interactive HR Dashboard
+# 5️ Power BI — Interactive HR Dashboard
 
 Power BI is the final presentation layer of the project.
 
@@ -380,7 +380,7 @@ The dashboard is divided into **six pages**.
 
 ---
 
-## 📌 Page 1 — Executive Overview
+##  Page 1 — Executive Overview
 
 ### Business Question
 
@@ -404,7 +404,7 @@ Focus areas include:
 
 ---
 
-## 📌 Page 2 — Attrition & Retention
+##  Page 2 — Attrition & Retention
 
 ### Business Question
 
@@ -428,7 +428,7 @@ Analysis includes:
 
 ---
 
-## 📌 Page 3 — Workforce & Compensation
+##  Page 3 — Workforce & Compensation
 
 ### Business Question
 
@@ -450,7 +450,7 @@ This page analyzes:
 
 ---
 
-## 📌 Page 4 — Engagement & Performance
+##  Page 4 — Engagement & Performance
 
 ### Business Question
 
@@ -472,7 +472,7 @@ This page focuses on:
 
 ---
 
-## 📌 Page 5 — Employee Risk & Action
+##  Page 5 — Employee Risk & Action
 
 ### Business Question
 
@@ -500,7 +500,7 @@ Instead, the dashboard highlights employees or groups showing **multiple risk in
 
 ---
 
-## 📌 Page 6 — Employee Details
+##  Page 6 — Employee Details
 
 ### Business Question
 
@@ -529,7 +529,7 @@ The page can be used to inspect:
 
 ---
 
-# 🧮 Analytical Approach
+#  Analytical Approach
 
 The project does not rely only on simple employee counts.
 
@@ -584,7 +584,7 @@ This is a **business-rule based risk framework**, not a machine-learning predict
 
 ---
 
-# 💡 Key Business Insights
+#  Key Business Insights
 
 The project is designed to help HR answer questions such as:
 
@@ -614,7 +614,7 @@ Combine multiple employee indicators to identify groups that may benefit from ta
 
 ---
 
-# 🎯 HR Recommendations
+#  HR Recommendations
 
 Based on the analytical framework, HR teams can use the dashboard to:
 
@@ -658,7 +658,7 @@ This is important because presenting a static HR dataset as a time-series analys
 
 ---
 
-# 🚀 What This Project Demonstrates
+#  What This Project Demonstrates
 
 This project demonstrates practical skills in:
 
@@ -683,7 +683,7 @@ This project demonstrates practical skills in:
 
 ---
 
-# 📁 Project Files
+#  Project Files
 
 | Component            | File                                                           |
 | -------------------- | -------------------------------------------------------------- |
@@ -698,14 +698,14 @@ This project demonstrates practical skills in:
 
 
 
-# 🔗 Project
+#  Project
 
 **GitHub Repository:**
 [HR-Analysing-Project](https://github.com/Sanjeetnishad/HR-Analysing-Project)
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Sanjeet Nishad**
 
@@ -713,7 +713,7 @@ B.Sc. Information Technology | Aspiring Data Analyst / Data Scientist
 
 ---
 
-## ⭐ Project Focus
+##  Project Focus
 
 ```text
 Data → Analysis → Business Questions → Insights → Decision Support
